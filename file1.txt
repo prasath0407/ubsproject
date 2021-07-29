@@ -7,4 +7,8 @@ eat
 fat
 goal
 2
-
+ihall
+fs
+zn
+nz
+3
