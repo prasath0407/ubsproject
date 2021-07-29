@@ -1,0 +1,6 @@
+all
+ball
+call
+ doll
+ 1
+
